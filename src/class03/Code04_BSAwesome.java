@@ -1,5 +1,9 @@
 package class03;
 
+/**
+ * 一个无序数组，相邻位置不相等，获取一个局部最小值
+ * 局部最小值：指相邻位置最小的那个数
+ */
 public class Code04_BSAwesome {
 
 	// arr 相邻的数不相等！
